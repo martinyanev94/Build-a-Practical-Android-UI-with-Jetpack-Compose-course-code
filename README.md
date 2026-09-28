@@ -1,0 +1,2 @@
+# Build-a-Practical-Android-UI-with-Jetpack-Compose-course-code
+Learn to build a practical Android UI with Jetpack Compose in this focused, hands-on introduction. You’ll create a Kotlin composable, preview it in Android Studio, and run it on an emulator or physical device. In this lesson, you’ll build a parameter-free `HabitTrackerScreen` with a title and sample habit, add a design-time Preview, connect the com
